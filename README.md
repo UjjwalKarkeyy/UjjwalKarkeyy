@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 📫 How to reach me? ujjwalkarki.official@gmail.com
 - ⚡ Fun fact: Coding is fun when you go from: Man I can't solve this to -> Man how did I solve it?
-- 🕵🏼 Know more about me: <a href="https://www.karkiujjwal.com.np"> karkiujjwal.com.np </a>
+- 🕵🏼 Know more about me: <a href="https://www.karkiujjwal.com.np" target="_blank"> karkiujjwal.com.np </a>
 
 <!---
 UjjwalKarkeyy/UjjwalKarkeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
